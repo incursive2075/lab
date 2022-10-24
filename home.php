@@ -23,6 +23,7 @@
 <section class="header">
 
    <a href="home.php" class="logo">∏ Travel</a>
+   
 
    <nav class="navbar">
       <a href="home.php">home</a>
